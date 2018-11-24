@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {"id":1, "name":"Krzysztof", "surname":"Damian", "createdDate":"2018-12-11", "email" : "jedynakpoczta@gmail.com"},
+        {"id":2, "name":"Maria", "surname":"Damian", "createdDate":"2018-12-10", "email" : "maria.damian@gmail.com"},
+        {"id":3, "name":"Łukasz", "surname":"Kowalski", "createdDate":"2018-12-11", "email" : "tomas@gmail.com"},
+        {"id":4, "name":"Michał", "surname":"Kowalska", "createdDate":"2018-12-11", "email" : "michal@gmail.com"},
+        {"id":5, "name":"Adam", "surname":"Kowalska", "createdDate":"2018-12-11", "email" : "adam@gmail.com"},
+        {"id":6, "name":"Piotr", "surname":"Jedynak", "createdDate":"2018-12-09", "email" : "piotr@gmail.com"},
+        {"id":7, "name":"Mikołaj", "surname":"Jedynak", "createdDate":"2018-12-11", "email" : "mikolaj@gmail.com"},
+        {"id":8, "name":"Natalia", "surname":"Jedynak", "createdDate":"2018-12-01", "email" : "nati@gmail.com"},
+        {"id":9, "name":"Łukasz", "surname":"Jedynak", "createdDate":"2018-11-03", "email" : "luki@gmail.com"},
+        {"id":10, "name":"Tomek", "surname":"Kowalski", "createdDate":"2018-11-11", "email" : "tomek.kowalski@gmail.com"},
+        {"id":11, "name":"Maria", "surname":"Jedynak", "createdDate":"2018-09-09", "email" : "maria.jedynak@gmail.com"},
+        {"id":12, "name":"Krzysztof", "surname":"Kwiatkowski", "createdDate":"2018-12-11", "email" : "krzysztof.kwt@gmail.com"},
+        {"id":13, "name":"Natalia", "surname":"Kawa", "createdDate":"2018-12-11", "email" : "kawa@gmail.com"},
+        {"id":14, "name":"Mirek", "surname":"Burnejko", "createdDate":"2018-11-11", "email" : "miro.burn@gmail.com"},
+        {"id":15, "name":"Iwona", "surname":"Wieczorek", "createdDate":"2018-12-09", "email" : "wieczorek@gmail.com"},
+        {"id":16, "name":"Ryszard", "surname":"Jankowski", "createdDate":"2018-12-11", "email" : "janek@gmail.com"},
+        {"id":17, "name":"Natalia", "surname":"Rafalak", "createdDate":"2018-12-12", "email" : "rafalak@gmail.com"},
+        {"id":18, "name":"Mikołaj", "surname":"Ostrzycki", "createdDate":"2018-12-11", "email" : "ostrzycki@gmail.com"}
+    ]
+}
