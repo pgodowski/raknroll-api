@@ -1,17 +1,19 @@
 # raknroll-api
 Raknroll api for searching services.
 1. Run project
-docker run  \
-      -p 3000:3000  -v `pwd`:/data  \
-      williamyeh/json-server        \
-      --watch db.json
+```
+docker run \
+-p 3000:3000  -v pwd:/data \
+williamyeh/json-server \
+--watch db.json
+```
 2. Example usage:
 a) find users by username
-Request:
 
-  http://0.0.0.0:3000/users?email=jedynakpoczta@gmail.com
+Request: `http://0.0.0.0:3000/users?email=jedynakpoczta@gmail.com`
   
 Response:
+```
 [
     {
         "id": 1,
@@ -21,4 +23,4 @@ Response:
         "email": "jedynakpoczta@gmail.com"
     }
 ]
-  
+```
