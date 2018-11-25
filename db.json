@@ -17,6 +17,7 @@
         {"id":15, "name":"Iwona", "surname":"Wieczorek", "createdDate":"2018-12-09", "email" : "wieczorek@gmail.com"},
         {"id":16, "name":"Ryszard", "surname":"Jankowski", "createdDate":"2018-12-11", "email" : "janek@gmail.com"},
         {"id":17, "name":"Natalia", "surname":"Rafalak", "createdDate":"2018-12-12", "email" : "rafalak@gmail.com"},
-        {"id":18, "name":"Mikołaj", "surname":"Ostrzycki", "createdDate":"2018-12-11", "email" : "ostrzycki@gmail.com"}
+        {"id":18, "name":"Mikołaj", "surname":"Ostrzycki", "createdDate":"2018-12-11", "email" : "ostrzycki@gmail.com"},
+        {"id":19, "name":"Agata", "surname":"Kryś", "createdDate":"2018-12-12", "email" : "agata@raknroll.pl"}
     ]
 }
